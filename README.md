@@ -1,2 +1,2 @@
 # advance-programming-java
-All programming concepts through Java including dsa, network programming, unit testing, gui programming, adv db programming, rmi, parallel programming, internationilization, web services.
+Advance programming concepts implemented in Java including dsa, network programming, event driven programming, unit testing, gui programming, adv db programming, rmi, parallel programming, internationilization, web services.
